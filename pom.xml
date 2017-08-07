@@ -11,6 +11,7 @@
     <modules>
         <module>Strings</module>
         <module>IO</module>
+        <module>Collections</module>
     </modules>
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
